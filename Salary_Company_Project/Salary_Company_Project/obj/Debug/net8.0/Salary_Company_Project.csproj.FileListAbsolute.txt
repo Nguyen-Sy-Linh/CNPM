@@ -1,0 +1,11 @@
+D:\UTH\IT\CNPM\Salary_Project\Salary_Company_Project\Salary_Company_Project\bin\Debug\net8.0\Salary_Company_Project.deps.json
+D:\UTH\IT\CNPM\Salary_Project\Salary_Company_Project\Salary_Company_Project\bin\Debug\net8.0\Salary_Company_Project.dll
+D:\UTH\IT\CNPM\Salary_Project\Salary_Company_Project\Salary_Company_Project\bin\Debug\net8.0\Salary_Company_Project.pdb
+D:\UTH\IT\CNPM\Salary_Project\Salary_Company_Project\Salary_Company_Project\obj\Debug\net8.0\Salary_Company_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTH\IT\CNPM\Salary_Project\Salary_Company_Project\Salary_Company_Project\obj\Debug\net8.0\Salary_Company_Project.AssemblyInfoInputs.cache
+D:\UTH\IT\CNPM\Salary_Project\Salary_Company_Project\Salary_Company_Project\obj\Debug\net8.0\Salary_Company_Project.AssemblyInfo.cs
+D:\UTH\IT\CNPM\Salary_Project\Salary_Company_Project\Salary_Company_Project\obj\Debug\net8.0\Salary_Company_Project.csproj.CoreCompileInputs.cache
+D:\UTH\IT\CNPM\Salary_Project\Salary_Company_Project\Salary_Company_Project\obj\Debug\net8.0\Salary_Company_Project.dll
+D:\UTH\IT\CNPM\Salary_Project\Salary_Company_Project\Salary_Company_Project\obj\Debug\net8.0\refint\Salary_Company_Project.dll
+D:\UTH\IT\CNPM\Salary_Project\Salary_Company_Project\Salary_Company_Project\obj\Debug\net8.0\Salary_Company_Project.pdb
+D:\UTH\IT\CNPM\Salary_Project\Salary_Company_Project\Salary_Company_Project\obj\Debug\net8.0\ref\Salary_Company_Project.dll

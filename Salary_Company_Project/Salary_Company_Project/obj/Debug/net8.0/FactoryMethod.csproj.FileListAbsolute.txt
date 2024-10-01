@@ -1,0 +1,12 @@
+C:\Users\LENOVO_PC\Downloads\Salary_Project\Salary_Company_Project\Salary_Company_Project\bin\Debug\net8.0\FactoryMethod.deps.json
+C:\Users\LENOVO_PC\Downloads\Salary_Project\Salary_Company_Project\Salary_Company_Project\bin\Debug\net8.0\FactoryMethod.dll
+C:\Users\LENOVO_PC\Downloads\Salary_Project\Salary_Company_Project\Salary_Company_Project\bin\Debug\net8.0\FactoryMethod.pdb
+C:\Users\LENOVO_PC\Downloads\Salary_Project\Salary_Company_Project\Salary_Company_Project\obj\Debug\net8.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO_PC\Downloads\Salary_Project\Salary_Company_Project\Salary_Company_Project\obj\Debug\net8.0\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\LENOVO_PC\Downloads\Salary_Project\Salary_Company_Project\Salary_Company_Project\obj\Debug\net8.0\FactoryMethod.AssemblyInfo.cs
+C:\Users\LENOVO_PC\Downloads\Salary_Project\Salary_Company_Project\Salary_Company_Project\obj\Debug\net8.0\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO_PC\Downloads\Salary_Project\Salary_Company_Project\Salary_Company_Project\obj\Debug\net8.0\FactoryMethod.sourcelink.json
+C:\Users\LENOVO_PC\Downloads\Salary_Project\Salary_Company_Project\Salary_Company_Project\obj\Debug\net8.0\FactoryMethod.dll
+C:\Users\LENOVO_PC\Downloads\Salary_Project\Salary_Company_Project\Salary_Company_Project\obj\Debug\net8.0\refint\FactoryMethod.dll
+C:\Users\LENOVO_PC\Downloads\Salary_Project\Salary_Company_Project\Salary_Company_Project\obj\Debug\net8.0\FactoryMethod.pdb
+C:\Users\LENOVO_PC\Downloads\Salary_Project\Salary_Company_Project\Salary_Company_Project\obj\Debug\net8.0\ref\FactoryMethod.dll

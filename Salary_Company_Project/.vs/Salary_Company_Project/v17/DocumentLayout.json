@@ -1,0 +1,303 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{334E7D66-E2CE-42DE-8DC4-DBE6BF12641C}|Salary_Company_Project\\FactoryMethod.csproj|C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\salary_company_project\\nhanvienkiemthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E7D66-E2CE-42DE-8DC4-DBE6BF12641C}|Salary_Company_Project\\FactoryMethod.csproj|solutionrelative:salary_company_project\\nhanvienkiemthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E7D66-E2CE-42DE-8DC4-DBE6BF12641C}|Salary_Company_Project\\FactoryMethod.csproj|C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\salary_company_project\\tienthuongngoaigio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E7D66-E2CE-42DE-8DC4-DBE6BF12641C}|Salary_Company_Project\\FactoryMethod.csproj|solutionrelative:salary_company_project\\tienthuongngoaigio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E7D66-E2CE-42DE-8DC4-DBE6BF12641C}|Salary_Company_Project\\FactoryMethod.csproj|C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\salary_company_project\\tienthuongthongthuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E7D66-E2CE-42DE-8DC4-DBE6BF12641C}|Salary_Company_Project\\FactoryMethod.csproj|solutionrelative:salary_company_project\\tienthuongthongthuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E7D66-E2CE-42DE-8DC4-DBE6BF12641C}|Salary_Company_Project\\FactoryMethod.csproj|C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\salary_company_project\\tienthuongngoaitinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E7D66-E2CE-42DE-8DC4-DBE6BF12641C}|Salary_Company_Project\\FactoryMethod.csproj|solutionrelative:salary_company_project\\tienthuongngoaitinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830BCCB4-201F-4C87-9BBD-2909CB09BCB7}|ClientTest\\ClientTest.csproj|C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\clienttest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830BCCB4-201F-4C87-9BBD-2909CB09BCB7}|ClientTest\\ClientTest.csproj|solutionrelative:clienttest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E7D66-E2CE-42DE-8DC4-DBE6BF12641C}|Salary_Company_Project\\FactoryMethod.csproj|c:\\users\\lenovo_pc\\downloads\\salary_project\\salary_company_project\\salary_company_project\\salary_factory.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{334E7D66-E2CE-42DE-8DC4-DBE6BF12641C}|Salary_Company_Project\\FactoryMethod.csproj|solutionrelative:salary_company_project\\salary_factory.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E7D66-E2CE-42DE-8DC4-DBE6BF12641C}|Salary_Company_Project\\Salary_Company_Project.csproj|C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\salary_company_project\\salary_factory.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{334E7D66-E2CE-42DE-8DC4-DBE6BF12641C}|Salary_Company_Project\\Salary_Company_Project.csproj|solutionrelative:salary_company_project\\salary_factory.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E7D66-E2CE-42DE-8DC4-DBE6BF12641C}|Salary_Company_Project\\FactoryMethod.csproj|c:\\users\\lenovo_pc\\downloads\\salary_project\\salary_company_project\\salary_company_project\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E7D66-E2CE-42DE-8DC4-DBE6BF12641C}|Salary_Company_Project\\FactoryMethod.csproj|solutionrelative:salary_company_project\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E7D66-E2CE-42DE-8DC4-DBE6BF12641C}|Salary_Company_Project\\FactoryMethod.csproj|C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\salary_company_project\\ketoanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E7D66-E2CE-42DE-8DC4-DBE6BF12641C}|Salary_Company_Project\\FactoryMethod.csproj|solutionrelative:salary_company_project\\ketoanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E7D66-E2CE-42DE-8DC4-DBE6BF12641C}|Salary_Company_Project\\FactoryMethod.csproj|C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\salary_company_project\\laptrinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E7D66-E2CE-42DE-8DC4-DBE6BF12641C}|Salary_Company_Project\\FactoryMethod.csproj|solutionrelative:salary_company_project\\laptrinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E7D66-E2CE-42DE-8DC4-DBE6BF12641C}|Salary_Company_Project\\FactoryMethod.csproj|C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\salary_company_project\\nhanvienfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E7D66-E2CE-42DE-8DC4-DBE6BF12641C}|Salary_Company_Project\\FactoryMethod.csproj|solutionrelative:salary_company_project\\nhanvienfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E7D66-E2CE-42DE-8DC4-DBE6BF12641C}|Salary_Company_Project\\FactoryMethod.csproj|C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\salary_company_project\\itienthuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E7D66-E2CE-42DE-8DC4-DBE6BF12641C}|Salary_Company_Project\\FactoryMethod.csproj|solutionrelative:salary_company_project\\itienthuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E7D66-E2CE-42DE-8DC4-DBE6BF12641C}|Salary_Company_Project\\FactoryMethod.csproj|C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\salary_company_project\\inhanvienfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E7D66-E2CE-42DE-8DC4-DBE6BF12641C}|Salary_Company_Project\\FactoryMethod.csproj|solutionrelative:salary_company_project\\inhanvienfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E7D66-E2CE-42DE-8DC4-DBE6BF12641C}|Salary_Company_Project\\FactoryMethod.csproj|C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\salary_company_project\\chuyenvienphantich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{334E7D66-E2CE-42DE-8DC4-DBE6BF12641C}|Salary_Company_Project\\FactoryMethod.csproj|solutionrelative:salary_company_project\\chuyenvienphantich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E7D66-E2CE-42DE-8DC4-DBE6BF12641C}|Salary_Company_Project\\FactoryMethod.csproj|C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\salary_company_project\\factorymethod.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{334E7D66-E2CE-42DE-8DC4-DBE6BF12641C}|Salary_Company_Project\\FactoryMethod.csproj|solutionrelative:salary_company_project\\factorymethod.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334E7D66-E2CE-42DE-8DC4-DBE6BF12641C}|Salary_Company_Project\\FactoryMethod.csproj|C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\salary_company_project\\salary_factory_project.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{334E7D66-E2CE-42DE-8DC4-DBE6BF12641C}|Salary_Company_Project\\FactoryMethod.csproj|solutionrelative:salary_company_project\\salary_factory_project.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChuyenvienPhantich.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\Salary_Company_Project\\ChuyenvienPhantich.cs",
+              "RelativeDocumentMoniker": "Salary_Company_Project\\ChuyenvienPhantich.cs",
+              "ToolTip": "C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\Salary_Company_Project\\ChuyenvienPhantich.cs",
+              "RelativeToolTip": "Salary_Company_Project\\ChuyenvienPhantich.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T02:56:29.934Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TienthuongNgoaitinh.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\Salary_Company_Project\\TienthuongNgoaitinh.cs",
+              "RelativeDocumentMoniker": "Salary_Company_Project\\TienthuongNgoaitinh.cs",
+              "ToolTip": "C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\Salary_Company_Project\\TienthuongNgoaitinh.cs",
+              "RelativeToolTip": "Salary_Company_Project\\TienthuongNgoaitinh.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T02:58:36.957Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TienthuongThongthuong.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\Salary_Company_Project\\TienthuongThongthuong.cs",
+              "RelativeDocumentMoniker": "Salary_Company_Project\\TienthuongThongthuong.cs",
+              "ToolTip": "C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\Salary_Company_Project\\TienthuongThongthuong.cs",
+              "RelativeToolTip": "Salary_Company_Project\\TienthuongThongthuong.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T02:59:09.623Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TienthuongNgoaigio.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\Salary_Company_Project\\TienthuongNgoaigio.cs",
+              "RelativeDocumentMoniker": "Salary_Company_Project\\TienthuongNgoaigio.cs",
+              "ToolTip": "C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\Salary_Company_Project\\TienthuongNgoaigio.cs",
+              "RelativeToolTip": "Salary_Company_Project\\TienthuongNgoaigio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T02:57:26.579Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NhanvienKiemthu.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\Salary_Company_Project\\NhanvienKiemthu.cs",
+              "RelativeDocumentMoniker": "Salary_Company_Project\\NhanvienKiemthu.cs",
+              "ToolTip": "C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\Salary_Company_Project\\NhanvienKiemthu.cs",
+              "RelativeToolTip": "Salary_Company_Project\\NhanvienKiemthu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T02:54:51.277Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NhanvienFactory.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\Salary_Company_Project\\NhanvienFactory.cs",
+              "RelativeDocumentMoniker": "Salary_Company_Project\\NhanvienFactory.cs",
+              "ToolTip": "C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\Salary_Company_Project\\NhanvienFactory.cs",
+              "RelativeToolTip": "Salary_Company_Project\\NhanvienFactory.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T03:18:55.433Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Nhanvien.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\Salary_Company_Project\\Nhanvien.cs",
+              "RelativeDocumentMoniker": "Salary_Company_Project\\Nhanvien.cs",
+              "ToolTip": "C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\Salary_Company_Project\\Nhanvien.cs",
+              "RelativeToolTip": "Salary_Company_Project\\Nhanvien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T02:44:34.432Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Laptrinhvien.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\Salary_Company_Project\\Laptrinhvien.cs",
+              "RelativeDocumentMoniker": "Salary_Company_Project\\Laptrinhvien.cs",
+              "ToolTip": "C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\Salary_Company_Project\\Laptrinhvien.cs",
+              "RelativeToolTip": "Salary_Company_Project\\Laptrinhvien.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T02:55:23.213Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ketoanvien.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\Salary_Company_Project\\Ketoanvien.cs",
+              "RelativeDocumentMoniker": "Salary_Company_Project\\Ketoanvien.cs",
+              "ToolTip": "C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\Salary_Company_Project\\Ketoanvien.cs",
+              "RelativeToolTip": "Salary_Company_Project\\Ketoanvien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T02:56:12.446Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITienthuong.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\Salary_Company_Project\\ITienthuong.cs",
+              "RelativeDocumentMoniker": "Salary_Company_Project\\ITienthuong.cs",
+              "ToolTip": "C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\Salary_Company_Project\\ITienthuong.cs",
+              "RelativeToolTip": "Salary_Company_Project\\ITienthuong.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T02:46:17.169Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "INhanvienFactory.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\Salary_Company_Project\\INhanvienFactory.cs",
+              "RelativeDocumentMoniker": "Salary_Company_Project\\INhanvienFactory.cs",
+              "ToolTip": "C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\Salary_Company_Project\\INhanvienFactory.cs",
+              "RelativeToolTip": "Salary_Company_Project\\INhanvienFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T03:15:50.76Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\ClientTest\\Program.cs",
+              "RelativeDocumentMoniker": "ClientTest\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\ClientTest\\Program.cs",
+              "RelativeToolTip": "ClientTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T03:42:46.457Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Salary_Factory.cd",
+              "DocumentMoniker": "C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\Salary_Company_Project\\Salary_Factory.cd",
+              "RelativeDocumentMoniker": "Salary_Company_Project\\Salary_Factory.cd",
+              "ToolTip": "C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\Salary_Company_Project\\Salary_Factory.cd",
+              "RelativeToolTip": "Salary_Company_Project\\Salary_Factory.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-09-30T15:39:47.76Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Salary_Factory.cd",
+              "DocumentMoniker": "C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\Salary_Company_Project\\Salary_Factory.cd",
+              "RelativeDocumentMoniker": "Salary_Company_Project\\Salary_Factory.cd",
+              "ToolTip": "C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\Salary_Company_Project\\Salary_Factory.cd",
+              "RelativeToolTip": "Salary_Company_Project\\Salary_Factory.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-09-30T03:30:34.59Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Salary_Factory_Project.txt",
+              "DocumentMoniker": "C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\Salary_Company_Project\\Salary_Factory_Project.txt",
+              "RelativeDocumentMoniker": "Salary_Company_Project\\Salary_Factory_Project.txt",
+              "ToolTip": "C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\Salary_Company_Project\\Salary_Factory_Project.txt",
+              "RelativeToolTip": "Salary_Company_Project\\Salary_Factory_Project.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-30T04:06:52.556Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FactoryMethod.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\Salary_Company_Project\\FactoryMethod.csproj",
+              "RelativeDocumentMoniker": "Salary_Company_Project\\FactoryMethod.csproj",
+              "ToolTip": "C:\\Users\\LENOVO_PC\\Downloads\\Salary_Project\\Salary_Company_Project\\Salary_Company_Project\\FactoryMethod.csproj",
+              "RelativeToolTip": "Salary_Company_Project\\FactoryMethod.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-30T04:09:22.473Z",
+              "IsPinned": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
